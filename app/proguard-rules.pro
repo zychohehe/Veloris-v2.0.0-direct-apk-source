@@ -1,0 +1,2 @@
+-keep class com.veloris.app.BuildConfig { *; }
+-dontwarn org.slf4j.**

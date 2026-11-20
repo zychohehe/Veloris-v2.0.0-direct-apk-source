@@ -1,0 +1,10 @@
+# Salin jadi local.properties (jangan di-commit) atau set sebagai env var / GitHub Secrets
+YT_API_KEY=
+GOOGLE_CLIENT_ID=
+SPOTIFY_CLIENT_ID=
+
+# Signing rilis (opsional untuk build lokal; di CI diisi dari GitHub Secrets)
+VELORIS_KEYSTORE_PATH=
+VELORIS_KEYSTORE_PASSWORD=
+VELORIS_KEY_ALIAS=
+VELORIS_KEY_PASSWORD=

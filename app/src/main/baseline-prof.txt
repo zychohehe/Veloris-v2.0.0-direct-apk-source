@@ -1,0 +1,2 @@
+HSPLcom/veloris/app/**;->**(**)**
+Lcom/veloris/app/**;

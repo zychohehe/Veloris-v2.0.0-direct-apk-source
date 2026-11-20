@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+*.apk
+dist/
+
+# Kunci penandatanganan & turunannya: jangan pernah di-commit
+*.jks
+*.keystore
+*.b64
+keystore.properties
